@@ -59,10 +59,6 @@ for k in range(1, 15):
 
 print(f"Max accuracy is {max(accs_lst)} at k = {accs_lst.index(max(accs_lst)) + 1}")
 
-    
-    # sample = classifier.predict([[120,5.3,8.5]])
-    # sample_name_predicted = Fruit_name[sample[0]]
-    # print(sample_name_predicted)
 
 
 
